@@ -1,7 +1,0 @@
-name=testcam
-x=0.235123
-y=0.359917
-date=2026-08-17T21:22:40+03:00
-corp=1
-stage=1
-comment=test
