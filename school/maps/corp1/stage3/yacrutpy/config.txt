@@ -1,0 +1,7 @@
+name=yacrutpy
+x=0.048098
+y=0.008991
+date=2026-08-18T04:37:09+03:00
+corp=1
+stage=3
+comment=yesyesss
