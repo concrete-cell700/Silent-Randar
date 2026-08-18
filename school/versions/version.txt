@@ -1,2 +1,1 @@
-2.7 beta
-
+v1.0 — Silent Launch [Stable.Beta]
